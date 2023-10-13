@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145719",
+      "name": "删除_填充",
+      "font_class": "shanchutianchong",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "1125622",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "1125890",
+      "name": "信息",
+      "font_class": "xinxi3",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    }
+  ]
+}
